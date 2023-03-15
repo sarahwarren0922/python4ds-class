@@ -14,7 +14,7 @@ dataframe = pd.read_csv(
         "Price",
         "Latitude",
         "Longitude",
-        "Meters from chosen location",
+        "Meters from Gardens",
         "Location",
     ],
 )
